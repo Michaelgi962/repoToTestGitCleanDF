@@ -24,4 +24,4 @@ __Yes, the newly created and modified unstaged file is deleted.__
 
 # Conclusion  
 
-__The 'git clean -df' command deletes all unstaged newly created files and all unstaged newly created folders.__
+__The 'git clean -df' command deletes all unstaged newly created files and all unstaged newly created folders, but not all unstaged modified files.__
